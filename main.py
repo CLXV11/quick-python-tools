@@ -1,6 +1,6 @@
 def add(a, b):
     # خطأ متعمد: المفروض أداة جمع
-    return a - b
+    return a + b
 
 def multiply(a, b):
     return a * b
